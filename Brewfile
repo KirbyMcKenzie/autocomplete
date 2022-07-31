@@ -1,0 +1,5 @@
+tap "adoptopenjdk/openjdk"
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "direnv"
+brew "watchman"
